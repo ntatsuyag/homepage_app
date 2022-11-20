@@ -11,7 +11,7 @@ root.render(
     <HeaderMenu/>
     <div className='flex flex-col-reverse sm:flex-row'>
       <div className='flex-auto ml-2 mr-2'><Main/></div>
-      <div className=' flex-1 bg-gray-600 text-slate-200 ml-2 mr-2 p-4 rounded-md'><Side/></div>
+      <div className='flex-auto bg-gray-600 text-slate-200 ml-2 mr-2 p-4 rounded-md'><Side/></div>
     </div>
     <Footer/>
   </React.StrictMode>

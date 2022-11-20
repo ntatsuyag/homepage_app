@@ -5,7 +5,7 @@ const Side = () => {
     return (
         <>
         <h1 className='text-3xl font-semibold text-center'>Tatsuya Nishiyama</h1>
-        <figure>
+        <figure className='my-2'>
             <img src={Profile} alt="プロフィール" className='rounded-lg mx-auto'/>
         </figure>
         <h2 className='text-xl text-gray-200 font-semibold'>自己紹介</h2>
