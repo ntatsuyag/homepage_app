@@ -18,7 +18,65 @@ const Skill = () => {
                 {/* <ContentDetails detail={props.detail}/> */}
                 <div className='bg-gray-200'>
                     <p>スキルについて</p>
-                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Earum, aliquam nobis est iusto qui iure ipsa, consequatur et in tenetur quae dolorum excepturi inventore eveniet nulla explicabo adipisci quam debitis.</p>
+                    <h2>プログラム</h2>
+                    <div className='flex flex-wrap'>
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>Python</h3>
+                            <p>3年くらい研究で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>PyTorch</p>
+                            <p>TensorFlow</p>
+                            <p>Django</p>
+                            <p>Flask</p>
+                        </div>
+
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>JavaScript</h3>
+                            <p>個人開発で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>React</p>
+                            <p>Node.js</p>
+                        </div>
+
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>Java</h3>
+                            <p>個人開発で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>React</p>
+                            <p>Node.js</p>
+                        </div>
+
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>C</h3>
+                            <p>個人開発で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>React</p>
+                            <p>Node.js</p>
+                        </div>
+
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>HTML, CSS</h3>
+                            <p>個人開発で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>TailwindCSS</p>
+                        </div>
+
+                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
+                            <h3 className=' bg-slate-800'>JavaScript</h3>
+                            <p>個人開発で利用</p>
+                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
+                            <p>React</p>
+                            <p>Node.js</p>
+                        </div>
+                    </div>
+                    <div>
+                    <h2>デバイス</h2>
+                    <p></p>
+                    </div>
+                    <div>
+                        <h2>その他</h2>
+                        <p>GitHub、Docker</p>
+                    </div>
                 </div>
             </div>
         );

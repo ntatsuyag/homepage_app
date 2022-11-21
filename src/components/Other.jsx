@@ -17,6 +17,8 @@ const Other = () => {
                 <div className='bg-gray-200'>
                     <p>その他もろもろについて</p>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequuntur, tempore cum. Aliquam, saepe. Commodi et accusantium inventore veniam earum voluptate ad facere molestiae quaerat. Nam molestiae perspiciatis sequi id error.</p>
+                    <h2>このサイトについて</h2>
+                    <p>React + TailwindCSS で作成。TailwindCSSの便利さに感動しました。</p>
                 </div>
             </div>
         );

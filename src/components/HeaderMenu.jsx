@@ -7,12 +7,11 @@ const HeaderMenu = () => {
           <a href="#Top" className='text-5xl font-bold ml-2'>ntatsuya</a>
         <div className='ml-2 mr-2 my-auto sm:ml-auto'>
           <nav className='text-2xl'>
-            <a href="#Profile" className='mr-2'>Profile</a>
-            <a href="#Skill" className='mr-2'>Skill</a>
             <a href="#Contact" className='mr-2'>Contact</a>
-            <a href="#Research" className='mr-2'>Research</a>
-            <a href="#Other" className='mr-2'>Other</a>
             <a href="#Career" className='mr-2'>Career</a>
+            <a href="#Skill" className='mr-2'>Skill</a>
+            {/* <a href="#Research" className='mr-2'>Research</a> */}
+            <a href="#Other" className='mr-2'>Other</a>
           </nav>
         </div>
       </div>
