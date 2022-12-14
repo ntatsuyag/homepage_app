@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/homepage_app/static/css/main.54e1a9f6.css",
+    "main.js": "/homepage_app/static/js/main.b249c2dc.js",
+    "static/js/787.209bb446.chunk.js": "/homepage_app/static/js/787.209bb446.chunk.js",
+    "static/media/tatsuya.JPG": "/homepage_app/static/media/tatsuya.72f5f0e1c700d1263067.JPG",
+    "index.html": "/homepage_app/index.html",
+    "main.54e1a9f6.css.map": "/homepage_app/static/css/main.54e1a9f6.css.map",
+    "main.b249c2dc.js.map": "/homepage_app/static/js/main.b249c2dc.js.map",
+    "787.209bb446.chunk.js.map": "/homepage_app/static/js/787.209bb446.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54e1a9f6.css",
+    "static/js/main.b249c2dc.js"
+  ]
+}
