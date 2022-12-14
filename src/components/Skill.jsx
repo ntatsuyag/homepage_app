@@ -40,18 +40,14 @@ const Skill = () => {
 
                         <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
                             <h3 className=' bg-slate-800'>Java</h3>
-                            <p>個人開発で利用</p>
+                            <p>大学の授業でやった程度</p>
                             <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
-                            <p>React</p>
-                            <p>Node.js</p>
                         </div>
 
                         <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
                             <h3 className=' bg-slate-800'>C</h3>
-                            <p>個人開発で利用</p>
+                            <p>大学の授業でやった程度</p>
                             <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
-                            <p>React</p>
-                            <p>Node.js</p>
                         </div>
 
                         <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
@@ -60,22 +56,14 @@ const Skill = () => {
                             <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
                             <p>TailwindCSS</p>
                         </div>
-
-                        <div className='text-slate-50 bg-slate-500 text-center m-2 flex-auto'>
-                            <h3 className=' bg-slate-800'>JavaScript</h3>
-                            <p>個人開発で利用</p>
-                            <h4 className=' bg-slate-700'>フレームワーク、ライブラリ</h4>
-                            <p>React</p>
-                            <p>Node.js</p>
-                        </div>
                     </div>
                     <div>
                     <h2>デバイス</h2>
-                    <p></p>
+                    <p>Mac,Ubuntu,Raspberry Pi,Jetson</p>
                     </div>
                     <div>
                         <h2>その他</h2>
-                        <p>GitHub、Docker</p>
+                        <p>Git、GitHub、Docker</p>
                     </div>
                 </div>
             </div>
